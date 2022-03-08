@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ed0157
-- 👀 I’m interested in technology
+👋 Hi
+
 - 🌱 I’m currently working on great projects!
 
 Thank you for visiting!
