@@ -2,23 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:106EBE,100:00C6B3&height=230&section=header&text=Hey%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Security%20Architect%20%C2%B7%20DevSecOps%20Manager%20%C2%B7%2013%2B%20Years%20on%20Azure&descAlignY=57&descSize=20" alt="header"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ed0157">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=50&lines=13%2B+Years+in+DevOps+Engineering;10%2B+Years+on+Microsoft+Azure;Cloud+Security+%C2%B7+DevSecOps+%C2%B7+IaC;Automating+the+cloud%2C+securely" alt="Typing SVG"/>
-  </a>
-</p>
-
-<!-- GitHub metrics badges -->
-<p align="center">
-  <a href="https://github.com/ed0157?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ed0157?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ed0157?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ed0157?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <img alt="profile views" title="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=ed0157.ed0157&left_text=Profile%20views&left_color=555&right_color=0078D4"/>
-</p>
-
-<details open>
-  <summary><h2>👨‍💻 About me</h2></summary>
+## 👨‍💻 About me
 
 - ☁️ **10+ years on Azure** — an early adopter of the platform, from IaaS fundamentals through modern cloud-native architecture
 - 🧭 **13+ years in DevOps engineering** — spanning hands-on delivery, platform design, and team leadership
@@ -28,10 +12,7 @@
 - ⚙️ **Automation** — PowerShell and Python tooling that removes manual ops work from the critical path
 - 🧑‍🏫 **Currently** balancing architecture, security, and DevOps engineering leadership in one seat
 
-</details>
-
-<details open>
-  <summary><h2>🎖️ Certifications</h2></summary>
+## 🎖️ Certifications
 
   <p>
     <img src="https://custom-icon-badges.demolab.com/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="SC-100"/>
@@ -41,10 +22,7 @@
 
   Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
 
-</details>
-
-<details open>
-  <summary><h2>🛠️ Tools &amp; technologies</h2></summary>
+## 🛠️ Tools &amp; technologies
 
   <h3>☁️ Cloud &amp; Infrastructure as Code</h3>
   <p>
@@ -84,19 +62,14 @@
 
   <h3>🔄 CI/CD &amp; Monitoring</h3>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"/>
     <img alt="Azure Pipelines" src="https://custom-icon-badges.demolab.com/badge/Azure%20Pipelines-2560E0.svg?logo=azure&logoColor=white"/>
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white"/>
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
     <img alt="Azure Monitor" src="https://custom-icon-badges.demolab.com/badge/Azure%20Monitor-0078D4.svg?logo=azure&logoColor=white"/>
-    <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vscode&logoColor=white"/>
   </p>
 
-</details>
-
-<details open>
-  <summary><h2>📘 Featured projects</h2></summary>
+## 📘 Featured projects
 
   <p>
     <a href="https://github.com/ed0157/weeksandleaps">
@@ -104,12 +77,7 @@
     </a>
   </p>
 
-  > More projects coming soon.
-
-</details>
-
-<details open>
-  <summary><h2>📊 Stats &amp; activity</h2></summary>
+## 📊 Stats &amp; activity
 
   <p>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ed0157&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=00C6B3&text_color=c9d1d9&hide_border=true" alt="Eddy's GitHub stats" height="180"/>
@@ -117,16 +85,10 @@
   </p>
 
   <p>
-    <img src="https://streak-stats.demolab.com?user=ed0157&background=0d1117&border=0d1117&stroke=0d1117&ring=0078D4&fire=00C6B3&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub streak"/>
-  </p>
-
-  <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ed0157&bg_color=0d1117&color=58a6ff&line=0078D4&point=00C6B3&hide_border=true" alt="Contribution activity graph"/>
   </p>
 
   <sub><b>Note:</b> Top languages reflects only the composition of my public code, not experience or skill level.</sub>
-
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6B3,100:0078D4&height=100&section=footer" alt="footer"/>
