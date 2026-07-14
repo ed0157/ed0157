@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ed0157">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=13%2B+years+in+DevOps+Engineering;10%2B+years+building+on+Microsoft+Azure;Cloud+Security+%7C+DevSecOps+%7C+Infrastructure+as+Code;Architecting%2C+securing%2C+and+automating+the+cloud" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=50&lines=13%2B+Years+in+DevOps+Engineering;10%2B+Years+on+Microsoft+Azure;Cloud+Security+%C2%B7+DevSecOps+%C2%B7+IaC;Automating+the+cloud%2C+securely" alt="Typing SVG"/>
   </a>
 </p>
 
