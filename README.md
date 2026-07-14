@@ -18,9 +18,10 @@
     <img src="https://custom-icon-badges.demolab.com/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="SC-100"/>
     <img src="https://custom-icon-badges.demolab.com/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-305"/>
     <img src="https://custom-icon-badges.demolab.com/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-400"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Certified-Windows%20Server-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft Certified: Windows Server"/>
   </p>
 
-  Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
+  Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert · Windows Server** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
 
 ## 🛠️ Tools &amp; technologies
 
@@ -54,10 +55,10 @@
   <p>
     <img alt="DevSecOps" src="https://custom-icon-badges.demolab.com/badge/DevSecOps-2A2A2A.svg?logo=shield&logoColor=white"/>
     <img alt="Zero Trust" src="https://custom-icon-badges.demolab.com/badge/Zero%20Trust-1B1F23.svg?logo=lock&logoColor=white"/>
+    <img alt="Microsoft Entra ID" src="https://custom-icon-badges.demolab.com/badge/Entra%20ID-0078D4.svg?logo=azure&logoColor=white"/>
+    <img alt="Microsoft Sentinel" src="https://custom-icon-badges.demolab.com/badge/Sentinel-0078D4.svg?logo=azure&logoColor=white"/>
     <img alt="Microsoft Defender for Cloud" src="https://custom-icon-badges.demolab.com/badge/Defender%20for%20Cloud-0078D4.svg?logo=shield&logoColor=white"/>
     <img alt="Azure Key Vault" src="https://custom-icon-badges.demolab.com/badge/Key%20Vault-0078D4.svg?logo=lock&logoColor=white"/>
-    <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA.svg?logo=trivy&logoColor=white"/>
-    <img alt="SonarQube" src="https://custom-icon-badges.demolab.com/badge/SonarQube-4E9BCD.svg?logo=check-circle&logoColor=white"/>
   </p>
 
   <h3>🔄 CI/CD &amp; Monitoring</h3>
