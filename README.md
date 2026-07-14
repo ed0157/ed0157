@@ -18,10 +18,10 @@
     <img src="https://custom-icon-badges.demolab.com/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="SC-100"/>
     <img src="https://custom-icon-badges.demolab.com/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-305"/>
     <img src="https://custom-icon-badges.demolab.com/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-400"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Certified-Windows%20Server-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft Certified: Windows Server"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/MCSE-Windows%20Server-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="MCSE: Windows Server"/>
   </p>
 
-  Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert · Windows Server** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
+  Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert · MCSE Windows Server** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
 
 ## 🛠️ Tools &amp; technologies
 
