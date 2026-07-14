@@ -8,78 +8,127 @@
   </a>
 </p>
 
-<br/>
-
-### 🎖️ Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SC-100"/>
-  <img src="https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-305"/>
-  <img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400"/>
+<!-- GitHub metrics badges -->
+<p align="center">
+  <a href="https://github.com/ed0157?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ed0157?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ed0157?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ed0157?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <img alt="profile views" title="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=ed0157.ed0157&left_text=Profile%20views&left_color=555&right_color=0078D4"/>
 </p>
 
-Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
-
-<br/>
-
-### 👨‍💻 About me
+<details open>
+  <summary><h2>👨‍💻 About me</h2></summary>
 
 - ☁️ **10+ years on Azure** — an early adopter of the platform, from IaaS fundamentals through modern cloud-native architecture
 - 🧭 **13+ years in DevOps engineering** — spanning hands-on delivery, platform design, and team leadership
 - 🔐 **Security-first** — DevSecOps practices, Zero Trust architecture, and cybersecurity-by-design across the SDLC
 - 🧱 **Infrastructure as Code** — Bicep &amp; ARM templates for repeatable, auditable environment builds
+- 🐳 **Containers &amp; orchestration** — Docker, Kubernetes, and AKS for cloud-native workloads
 - ⚙️ **Automation** — PowerShell and Python tooling that removes manual ops work from the critical path
-- 🔄 **CI/CD** — pipelines engineered to ship safely, consistently, and at speed
 - 🧑‍🏫 **Currently** balancing architecture, security, and DevOps engineering leadership in one seat
 
-<br/>
+</details>
 
-### 🛠️ Tech stack
+<details open>
+  <summary><h2>🎖️ Certifications</h2></summary>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep"/>
-  <img src="https://img.shields.io/badge/ARM_Templates-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ARM Templates"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/DevSecOps-2A2A2A?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="DevSecOps"/>
-  <img src="https://img.shields.io/badge/Zero_Trust-1B1F23?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Zero Trust"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="SC-100"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-305"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="AZ-400"/>
+  </p>
 
-<br/>
+  Microsoft Certified: **Cybersecurity Architect Expert · Solutions Architect Expert · DevOps Engineer Expert** — spanning security architecture, platform design authority, and end-to-end delivery engineering.
 
-### 📌 Featured project
+</details>
 
-<a href="https://github.com/ed0157/weeksandleaps">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ed0157&repo=weeksandleaps&theme=default" alt="weeksandleaps"/>
-</a>
+<details open>
+  <summary><h2>🛠️ Tools &amp; technologies</h2></summary>
 
-<br clear="left"/>
-<br/>
+  <h3>☁️ Cloud &amp; Infrastructure as Code</h3>
+  <p>
+    <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?logo=azure&logoColor=white"/>
+    <img alt="Bicep" src="https://custom-icon-badges.demolab.com/badge/Bicep-1BA1E2.svg?logo=azure&logoColor=white"/>
+    <img alt="ARM Templates" src="https://custom-icon-badges.demolab.com/badge/ARM%20Templates-0062AD.svg?logo=azure&logoColor=white"/>
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"/>
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white"/>
+    <img alt="Azure DevOps" src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7.svg?logo=azure&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
+  </p>
 
-> More projects will be pinned here as they're published.
+  <h3>🐳 Containers &amp; Orchestration</h3>
+  <p>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"/>
+    <img alt="Azure Kubernetes Service" src="https://img.shields.io/badge/Azure%20AKS-0078D4.svg?logo=kubernetes&logoColor=white"/>
+    <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white"/>
+    <img alt="Azure Container Registry" src="https://custom-icon-badges.demolab.com/badge/Container%20Registry-0062AD.svg?logo=azure&logoColor=white"/>
+  </p>
 
-<br/>
+  <h3>⌨️ Scripting &amp; Automation</h3>
+  <p>
+    <a href="https://github.com/search?q=user%3Aed0157+language%3Apowershell"><img alt="PowerShell" src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white"/></a>
+    <a href="https://github.com/search?q=user%3Aed0157+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/></a>
+    <a href="https://github.com/search?q=user%3Aed0157+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/></a>
+  </p>
 
-### 📊 GitHub stats
+  <h3>🔐 Security &amp; DevSecOps</h3>
+  <p>
+    <img alt="DevSecOps" src="https://custom-icon-badges.demolab.com/badge/DevSecOps-2A2A2A.svg?logo=shield&logoColor=white"/>
+    <img alt="Zero Trust" src="https://custom-icon-badges.demolab.com/badge/Zero%20Trust-1B1F23.svg?logo=lock&logoColor=white"/>
+    <img alt="Microsoft Defender for Cloud" src="https://custom-icon-badges.demolab.com/badge/Defender%20for%20Cloud-0078D4.svg?logo=shield&logoColor=white"/>
+    <img alt="Azure Key Vault" src="https://custom-icon-badges.demolab.com/badge/Key%20Vault-0078D4.svg?logo=lock&logoColor=white"/>
+    <img alt="HashiCorp Vault" src="https://img.shields.io/badge/Vault-FFEC6E.svg?logo=vault&logoColor=black"/>
+    <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA.svg?logo=trivy&logoColor=white"/>
+    <img alt="SonarQube" src="https://custom-icon-badges.demolab.com/badge/SonarQube-4E9BCD.svg?logo=check-circle&logoColor=white"/>
+  </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ed0157&show_icons=true&theme=default&hide_border=true" alt="Eddy's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ed0157&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
-</p>
+  <h3>🔄 CI/CD &amp; Monitoring</h3>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"/>
+    <img alt="Azure Pipelines" src="https://custom-icon-badges.demolab.com/badge/Azure%20Pipelines-2560E0.svg?logo=azure&logoColor=white"/>
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white"/>
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
+    <img alt="Azure Monitor" src="https://custom-icon-badges.demolab.com/badge/Azure%20Monitor-0078D4.svg?logo=azure&logoColor=white"/>
+    <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vscode&logoColor=white"/>
+  </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ed0157&theme=default&hide_border=true" alt="GitHub streak"/>
-</p>
+</details>
 
-<br/>
+<details open>
+  <summary><h2>📘 Featured projects</h2></summary>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ed0157.ed0157&left_text=Profile%20views&left_color=555&right_color=0078D4" alt="Profile views"/>
-</p>
+  <p>
+    <a href="https://github.com/ed0157/weeksandleaps">
+      <img width="360" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ed0157&repo=weeksandleaps&bg_color=0d1117&title_color=58a6ff&icon_color=00C6B3&text_color=c9d1d9&hide_border=true" alt="weeksandleaps"/>
+    </a>
+  </p>
+
+  > More projects coming soon.
+
+</details>
+
+<details open>
+  <summary><h2>📊 Stats &amp; activity</h2></summary>
+
+  <p>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ed0157&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=00C6B3&text_color=c9d1d9&hide_border=true" alt="Eddy's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ed0157&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top languages" height="180"/>
+  </p>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=ed0157&background=0d1117&border=0d1117&stroke=0d1117&ring=0078D4&fire=00C6B3&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub streak"/>
+  </p>
+
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ed0157&bg_color=0d1117&color=58a6ff&line=0078D4&point=00C6B3&hide_border=true" alt="Contribution activity graph"/>
+  </p>
+
+  <sub><b>Note:</b> Top languages reflects only the composition of my public code, not experience or skill level.</sub>
+
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6B3,100:0078D4&height=100&section=footer" alt="footer"/>
