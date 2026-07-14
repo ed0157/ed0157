@@ -52,7 +52,6 @@
     <img alt="Bicep" src="https://custom-icon-badges.demolab.com/badge/Bicep-1BA1E2.svg?logo=azure&logoColor=white"/>
     <img alt="ARM Templates" src="https://custom-icon-badges.demolab.com/badge/ARM%20Templates-0062AD.svg?logo=azure&logoColor=white"/>
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"/>
-    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white"/>
     <img alt="Azure DevOps" src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7.svg?logo=azure&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
   </p>
@@ -79,7 +78,6 @@
     <img alt="Zero Trust" src="https://custom-icon-badges.demolab.com/badge/Zero%20Trust-1B1F23.svg?logo=lock&logoColor=white"/>
     <img alt="Microsoft Defender for Cloud" src="https://custom-icon-badges.demolab.com/badge/Defender%20for%20Cloud-0078D4.svg?logo=shield&logoColor=white"/>
     <img alt="Azure Key Vault" src="https://custom-icon-badges.demolab.com/badge/Key%20Vault-0078D4.svg?logo=lock&logoColor=white"/>
-    <img alt="HashiCorp Vault" src="https://img.shields.io/badge/Vault-FFEC6E.svg?logo=vault&logoColor=black"/>
     <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA.svg?logo=trivy&logoColor=white"/>
     <img alt="SonarQube" src="https://custom-icon-badges.demolab.com/badge/SonarQube-4E9BCD.svg?logo=check-circle&logoColor=white"/>
   </p>
