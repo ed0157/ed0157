@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6B3&height=200&section=header&text=Eddy%20%E2%80%A2%20Cloud%20%26%20Security&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Security%20Architect%20%26%20DevSecOps%20Manager&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:106EBE,100:00C6B3&height=230&section=header&text=Hey%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Security%20Architect%20%C2%B7%20DevSecOps%20Manager%20%C2%B7%2013%2B%20Years%20on%20Azure&descAlignY=57&descSize=20" alt="header"/>
 </p>
 
 <p align="center">
