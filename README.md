@@ -4,13 +4,11 @@
 
 ## 👨‍💻 About me
 
-- ☁️ **10+ years on Azure** — an early adopter of the platform, from IaaS fundamentals through modern cloud-native architecture
-- 🧭 **13+ years in DevOps engineering** — spanning hands-on delivery, platform design, and team leadership
-- 🔐 **Security-first** — DevSecOps practices, Zero Trust architecture, and cybersecurity-by-design across the SDLC
-- 🧱 **Infrastructure as Code** — Bicep &amp; ARM templates for repeatable, auditable environment builds
-- 🐳 **Containers &amp; orchestration** — Docker, Kubernetes, and AKS for cloud-native workloads
-- ⚙️ **Automation** — PowerShell and Python tooling that removes manual ops work from the critical path
-- 🧑‍🏫 **Currently** balancing architecture, security, and DevOps engineering leadership in one seat
+Cloud Security Architect &amp; DevSecOps Manager — 13+ years in DevOps, 10+ of them building on Azure. I design secure cloud platforms and automate everything around them.
+
+- 🔐 **Security-first** — Zero Trust and DevSecOps built into every pipeline
+- 🧱 **Everything as code** — Bicep, ARM, Terraform, PowerShell, Python
+- 🚀 **Hands-on leadership** — architecture, security, and delivery in one seat
 
 ## 🎖️ Certifications
 
