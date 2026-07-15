@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:106EBE,100:00C6B3&height=230&section=header&text=Hey%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Security%20Architect%20%C2%B7%20DevSecOps%20Manager%20%C2%B7%2013%2B%20Years%20on%20Azure&descAlignY=57&descSize=20" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:106EBE,100:00C6B3&height=230&section=header&text=Hey%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Security%20Architect%20%C2%B7%20DevSecOps%20Manager%20%C2%B7%20Over%20a%20Decade%20of%20DevOps%20and%20Azure&descAlignY=57&descSize=20" alt="header"/>
 </p>
 
 ## 👨‍💻 About me
 
-Cloud Security Architect &amp; DevSecOps Manager — 13+ years in DevOps, 10+ of them building on Azure. I design secure cloud platforms and automate everything around them.
+Cloud Security Architect &amp; DevSecOps Manager — over a decade of DevOps &amp; Azure. I design secure cloud platforms and automate everything around them.
 
 - 🔐 **Security-first** — Zero Trust and DevSecOps built into every pipeline
 - 🧱 **Everything as code** — Bicep, ARM, Terraform, PowerShell, Python
