@@ -57,6 +57,7 @@ Cloud Security Architect &amp; DevSecOps Manager — over a decade of DevOps &am
     <img alt="Microsoft Sentinel" src="https://custom-icon-badges.demolab.com/badge/Sentinel-0078D4.svg?logo=azure&logoColor=white"/>
     <img alt="Microsoft Defender for Cloud" src="https://custom-icon-badges.demolab.com/badge/Defender%20for%20Cloud-0078D4.svg?logo=shield&logoColor=white"/>
     <img alt="Azure Key Vault" src="https://custom-icon-badges.demolab.com/badge/Key%20Vault-0078D4.svg?logo=lock&logoColor=white"/>
+    <a href="https://mondoo.com/xgrep"><img alt="xgrep" src="https://img.shields.io/badge/xgrep-Security%20Querying-6C47FF.svg?logo=gnu-bash&logoColor=white"/></a>
   </p>
 
   <h3>🔄 CI/CD &amp; Monitoring</h3>
