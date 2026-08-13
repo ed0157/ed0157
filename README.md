@@ -68,27 +68,6 @@ Cloud Security Architect &amp; DevSecOps Manager — over a decade of DevOps &am
     <img alt="Azure Monitor" src="https://custom-icon-badges.demolab.com/badge/Azure%20Monitor-0078D4.svg?logo=azure&logoColor=white"/>
   </p>
 
-## 📘 Featured projects
-
-  <p>
-    <a href="https://github.com/ed0157/weeksandleaps">
-      <img width="360" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ed0157&repo=weeksandleaps&bg_color=0d1117&title_color=58a6ff&icon_color=00C6B3&text_color=c9d1d9&hide_border=true" alt="weeksandleaps"/>
-    </a>
-  </p>
-
-## 📊 Stats &amp; activity
-
-  <p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ed0157&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=00C6B3&text_color=c9d1d9&hide_border=true" alt="Eddy's GitHub stats" height="180"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ed0157&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top languages" height="180"/>
-  </p>
-
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ed0157&bg_color=0d1117&color=58a6ff&line=0078D4&point=00C6B3&hide_border=true" alt="Contribution activity graph"/>
-  </p>
-
-  <sub><b>Note:</b> Top languages reflects only the composition of my public code, not experience or skill level.</sub>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6B3,100:0078D4&height=100&section=footer" alt="footer"/>
 </p>
